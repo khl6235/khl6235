@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhl6235%2Fhit-counter&count_bg=%235B7CD9&title_bg=%23B6B5C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## Hi there! 🌊
 
 - 🌱 I’m currently learning <b>Backend</b>
@@ -42,6 +44,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=khl6235)](https://solved.ac/khl6235)
+
 
 <!--
 **khl6235/khl6235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
