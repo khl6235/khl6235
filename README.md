@@ -39,7 +39,7 @@
 </p>
   
 
-![haely's GitHub stats](https://github-readme-stats.vercel.app/api?username=khl6235&show_icons=true&theme=tokyonight)
+![haely's GitHub stats](https://github-readme-stats.vercel.app/api?username=khl6235&show_icons=true&theme=tokyonight&count_private=true)
 
 
 [![Solved.ac
