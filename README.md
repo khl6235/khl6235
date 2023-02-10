@@ -2,7 +2,7 @@
 
 ## Hi there! 🌊
 
-- 🌱 I’m currently learning <b>Backend</b>
+- 🌱 I’m currently learning&working in <b>Backend</b>
 - 👩🏻‍💻 I majored in <b>Computer Engineering</b>
 
 <h3> 🛠 Tech Stack & Skills</h3>
